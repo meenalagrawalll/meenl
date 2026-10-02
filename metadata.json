@@ -1,0 +1,6 @@
+{
+  "name": "MuleTrace Cyber Financial Forensics",
+  "description": "High-velocity offline financial cyber-forensics platform for detecting money mule networks, tracing multi-hop fund flows, and generating verified legal evidence reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
